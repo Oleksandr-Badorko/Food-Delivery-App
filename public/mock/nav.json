@@ -1,0 +1,19 @@
+{
+    "nav": [
+      {
+        "name": "Home"
+      },
+      {
+        "name": "About"
+      },
+      {
+        "name": "Service"
+      },
+      {
+        "name": "Shop"
+      },
+      {
+        "name": "Contacts"
+      }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "sidebar": [
+        {
+            "img": "/assets/icons/mcdonalds.svg",
+            "descr": "McDonalds",
+            "name": "McDonald's",
+            "data": "mcd"
+        },
+        {
+            "img": "/assets/icons/kfc.svg",
+            "descr": "Kfc",
+            "name": "KFC",
+            "data": "kfc"
+        },
+        {
+            "img": "/assets/icons/Subway_2016_logo.svg.png",
+            "descr": "Subway",
+            "name": "Subway",
+            "data": "sbw"
+        },
+        {
+            "img": "/assets/icons/1088px-Pizza_Hut_logo.svg.png",
+            "descr": "Pizza hut",
+            "name": "Pizza Hut",
+            "data": "pizzh"
+        },
+        {
+            "img": "/assets/icons/Burger_King_2020.svg.png",
+            "descr": "Burger king",
+            "name": "Burger King",
+            "data": "bkng"
+        }
+    ]
+}

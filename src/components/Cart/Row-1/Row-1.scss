@@ -1,0 +1,13 @@
+.row-1 {
+    display: flex;
+    gap: 30px;
+}
+
+@media (max-width: 650px) {
+    .row-1 {
+        display: block;
+        input {
+            width: 100%;
+        }
+    }
+}

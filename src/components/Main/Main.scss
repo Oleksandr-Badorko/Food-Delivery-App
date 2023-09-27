@@ -1,0 +1,7 @@
+.main {
+    grid-area: main;
+    display: grid;
+    grid-template: 1fr / 1fr minmax(auto, 300px) minmax(auto, 1100px) 1fr; // row / column container
+    padding: 50px 0px;
+    background: linear-gradient(to right bottom, orange, rgb(255, 69, 0)) 0% 0% / cover no-repeat fixed;
+}
