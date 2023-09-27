@@ -6,7 +6,7 @@ import Cart from "../Cart/Cart";
 
 const Main = () => {
   const [selectedShop, setSelectedShop] = useState(null);
-  const [isCartOpen, setIsCartOpen] = useState(false); // State to control the cart's visibility
+  const [isCartOpen, setIsCartOpen] = useState(false); 
 
   const handleShopSelection = (shop) => {
     setSelectedShop(shop);

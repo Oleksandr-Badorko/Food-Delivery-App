@@ -4,7 +4,7 @@ import "./SidebarItem.scss";
 const SidebarItem = ({ img, descr, name, data, onClick }) => {
   const handleShopClick = (event) => {
     event.preventDefault();
-    onClick(data, event); // Pass both data and event objects to the onClick function
+    onClick(data, event);
   };
 
   return (

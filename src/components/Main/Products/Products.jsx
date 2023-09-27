@@ -23,7 +23,7 @@ const Products = ({ selectedShop }) => {
       setCart((prevCart) => [...prevCart, { ...product, quantity: 1 }]);
     }
   
-    console.log("Cart after adding item:", cart); // Check the cart state
+    console.log("Cart after adding item:", cart); 
   };
   
   useEffect(() => {

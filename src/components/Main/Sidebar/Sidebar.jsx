@@ -16,9 +16,8 @@ const Sidebar = ({ onShopSelect }) => {
   }, []);
 
   const handleShopClick = (itemData) => {
-    // Call the onShopSelect prop to update the selected shop
     if (onShopSelect) {
-      onShopSelect(itemData.data); // Pass the 'data' property from itemData
+      onShopSelect(itemData.data); 
     }
   };
 
